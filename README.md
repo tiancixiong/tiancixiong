@@ -2,9 +2,7 @@
 
 [![Tianci's github stats](https://github-readme-stats.vercel.app/api?username=tiancixiong&hide=contribs,prs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact me 📱
 
-- support@xiongtianci.com
 
 
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Tianci's github stats](https://github-readme-stats.vercel.app/api?username=tiancixiong&?theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Tianci's github stats](https://github-readme-stats.vercel.app/api?username=tiancixiong&hide=contribs,prs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
